@@ -1,0 +1,264 @@
+TNoNib
+v7
+r0
+t279746472.863671
+cCheck dependencies
+cProcessInfoPlistFile /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/Info.plist NoNib-Info.plist
+cProcessPCH /var/folders/MP/MPi0s+PHGP8YPacY7yvHE++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NoNib_Prefix-dgooypqhelbmcfhcibwqgvncsdmi/NoNib_Prefix.pch.gch NoNib_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/main.o /Users/steve/Documents/NoNib/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/NoNibAppDelegate.o /Users/steve/Documents/NoNib/Classes/NoNibAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/RootViewController.o /Users/steve/Documents/NoNib/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/HelloView.o /Users/steve/Documents/NoNib/Classes/HelloView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk
+c000000004AF9C33700000000000000EE
+t1257882423
+s238
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004ABDC853000000000026EE30
+t1253951571
+s2551344
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004ABDC952000000000027E880
+t1253951826
+s2615424
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004ABDC93F0000000000001355
+t1253951807
+s4949
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004ABDEE1D0000000000000788
+t1253961245
+s1928
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004ABDEEE200000000016721E0
+t1253961442
+s23536096
+
+N/Users/steve/Documents/NoNib/Classes/HelloView.h
+c000000004AFC5BAF00000000000000CA
+t1258052527
+s202
+i<UIKit/UIKit.h>
+
+N/Users/steve/Documents/NoNib/Classes/HelloView.m
+c000000004AFC5FD10000000000000302
+t1258053585
+s770
+i"HelloView.h"
+
+N/Users/steve/Documents/NoNib/Classes/NoNibAppDelegate.h
+c000000004AFB49DB0000000000000141
+t1257982427
+s321
+i<UIKit/UIKit.h>
+
+N/Users/steve/Documents/NoNib/Classes/NoNibAppDelegate.m
+c000000004AFC5E0B00000000000002D3
+t1258053131
+s723
+i"NoNibAppDelegate.h"
+i"RootViewController.h"
+
+N/Users/steve/Documents/NoNib/Classes/RootViewController.h
+c000000004AFC5B6D00000000000000E6
+t1258052461
+s230
+i<UIKit/UIKit.h>
+
+N/Users/steve/Documents/NoNib/Classes/RootViewController.m
+c000000004AFC601E00000000000006D2
+t1258053662
+s1746
+i"RootViewController.h"
+i"HelloView.h"
+
+N/Users/steve/Documents/NoNib/MainWindow.xib
+c000000004AFB434A0000000000001F49
+t1257980746
+s8009
+
+N/Users/steve/Documents/NoNib/NoNib_Prefix.pch
+c000000004AFB434A00000000000000B3
+t1257980746
+s179
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app
+t2
+s0
+
+N/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app.dSYM
+t2
+s0
+
+N/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/Info.plist
+t1258053671
+s525
+
+N/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/MainWindow.nib
+t2
+s0
+
+N/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/NoNib
+t2
+s0
+
+N/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/PkgInfo
+t1258053671
+s8
+
+N/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/HelloView.o
+t2
+s0
+
+N/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/NoNib.LinkFileList
+c000000004AFC602700000000000001CF
+t1258053671
+s463
+
+N/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/NoNibAppDelegate.o
+t1258053672
+s38000
+
+N/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/RootViewController.o
+t1258053672
+s31372
+
+N/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/main.o
+t1258053672
+s6116
+
+N/Users/steve/Documents/NoNib/main.m
+c000000004AFB7DE20000000000000177
+t1257995746
+s375
+i<UIKit/UIKit.h>
+
+N/var/folders/MP/MPi0s+PHGP8YPacY7yvHE++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NoNib_Prefix-dgooypqhelbmcfhcibwqgvncsdmi/NoNib_Prefix.pch.gch
+t1258053672
+s13034960
+
+NNoNib-Info.plist
+c000000004AFB43EA0000000000000358
+t1257980906
+s856
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies279746471#279746471#0(0"0(0#1#0"4300885448#0"0#
+
+CCompileC build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/HelloView.o /Users/steve/Documents/NoNib/Classes/HelloView.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279746472.761871
+e279746472.820709
+r0
+xCompileC
+xbuild/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/HelloView.o
+x/Users/steve/Documents/NoNib/Classes/HelloView.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+o/Users/steve/Documents/NoNib/Classes/HelloView.m: In function '-[HelloView initWithFrame:]':
+o/Users/steve/Documents/NoNib/Classes/HelloView.m:22: error: 'contentView' undeclared (first use in this function)
+o/Users/steve/Documents/NoNib/Classes/HelloView.m:22: error: (Each undeclared identifier is reported only once
+o/Users/steve/Documents/NoNib/Classes/HelloView.m:22: error: for each function it appears in.)
+lSLF07#2@56"Compile /Users/steve/Documents/NoNib/Classes/HelloView.m279746472#279746472#0(411"/Users/steve/Documents/NoNib/Classes/HelloView.m: In function '-[HelloView initWithFrame:]':/Users/steve/Documents/NoNib/Classes/HelloView.m:22: error: 'contentView' undeclared (first use in this function)/Users/steve/Documents/NoNib/Classes/HelloView.m:22: error: (Each undeclared identifier is reported only once/Users/steve/Documents/NoNib/Classes/HelloView.m:22: error: for each function it appears in.)1(4@53"'contentView' undeclared (first use in this function)279746472#93#114#0(6@48"/Users/steve/Documents/NoNib/Classes/HelloView.m279746385#22#0#22#0#43"'*' undeclared (first use in this function)0(0#0#48"/Users/steve/Documents/NoNib/Classes/HelloView.m4300885448#1727"    cd /Users/steve/Documents/NoNib    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-generated-files.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-own-target-headers.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-all-target-headers.hmap -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-project-headers.hmap -F/Users/steve/Documents/NoNib/build/Debug-iphonesimulator -I/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/include -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources/i386 -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources -include /var/folders/MP/MPi0s+PHGP8YPacY7yvHE++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NoNib_Prefix-dgooypqhelbmcfhcibwqgvncsdmi/NoNib_Prefix.pch -c /Users/steve/Documents/NoNib/Classes/HelloView.m -o /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/HelloView.o1#
+
+CCompileC build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/NoNibAppDelegate.o /Users/steve/Documents/NoNib/Classes/NoNibAppDelegate.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279746472.688088
+e279746472.761771
+r1
+xCompileC
+xbuild/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/NoNibAppDelegate.o
+x/Users/steve/Documents/NoNib/Classes/NoNibAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@63"Compile /Users/steve/Documents/NoNib/Classes/NoNibAppDelegate.m279746472#279746472#0(0"0(0#0#55"/Users/steve/Documents/NoNib/Classes/NoNibAppDelegate.m4300885448#1741"    cd /Users/steve/Documents/NoNib    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-generated-files.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-own-target-headers.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-all-target-headers.hmap -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-project-headers.hmap -F/Users/steve/Documents/NoNib/build/Debug-iphonesimulator -I/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/include -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources/i386 -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources -include /var/folders/MP/MPi0s+PHGP8YPacY7yvHE++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NoNib_Prefix-dgooypqhelbmcfhcibwqgvncsdmi/NoNib_Prefix.pch -c /Users/steve/Documents/NoNib/Classes/NoNibAppDelegate.m -o /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/NoNibAppDelegate.o0#
+
+CCompileC build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/RootViewController.o /Users/steve/Documents/NoNib/Classes/RootViewController.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279746472.744762
+e279746472.863588
+r1
+xCompileC
+xbuild/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/RootViewController.o
+x/Users/steve/Documents/NoNib/Classes/RootViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@65"Compile /Users/steve/Documents/NoNib/Classes/RootViewController.m279746472#279746472#0(0"0(0#0#57"/Users/steve/Documents/NoNib/Classes/RootViewController.m4300885448#1745"    cd /Users/steve/Documents/NoNib    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-generated-files.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-own-target-headers.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-all-target-headers.hmap -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-project-headers.hmap -F/Users/steve/Documents/NoNib/build/Debug-iphonesimulator -I/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/include -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources/i386 -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources -include /var/folders/MP/MPi0s+PHGP8YPacY7yvHE++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NoNib_Prefix-dgooypqhelbmcfhcibwqgvncsdmi/NoNib_Prefix.pch -c /Users/steve/Documents/NoNib/Classes/RootViewController.m -o /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/RootViewController.o0#
+
+CCompileC build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/main.o /Users/steve/Documents/NoNib/main.m normal i386 objective-c com.apple.compilers.gcc.4_2
+s279746472.686798
+e279746472.744663
+r1
+xCompileC
+xbuild/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/main.o
+x/Users/steve/Documents/NoNib/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@43"Compile /Users/steve/Documents/NoNib/main.m279746472#279746472#0(0"0(0#0#35"/Users/steve/Documents/NoNib/main.m4300885448#1709"    cd /Users/steve/Documents/NoNib    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-generated-files.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-own-target-headers.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-all-target-headers.hmap -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-project-headers.hmap -F/Users/steve/Documents/NoNib/build/Debug-iphonesimulator -I/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/include -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources/i386 -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources -include /var/folders/MP/MPi0s+PHGP8YPacY7yvHE++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NoNib_Prefix-dgooypqhelbmcfhcibwqgvncsdmi/NoNib_Prefix.pch -c /Users/steve/Documents/NoNib/main.m -o /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/main.o0#
+
+CCompileXIB /Users/steve/Documents/NoNib/MainWindow.xib
+r0
+
+CGenerateDSYMFile /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app.dSYM /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/NoNib
+s279745934.149732
+e279745934.164793
+r1
+xGenerateDSYMFile
+x/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app.dSYM
+x/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/NoNib
+lSLF07#2@103"GenerateDSYMFile build/Debug-iphonesimulator/NoNib.app.dSYM build/Debug-iphonesimulator/NoNib.app/NoNib279745934#279745934#0(0"0(0#0#72"/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/NoNib4300885448#347"    cd /Users/steve/Documents/NoNib    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/NoNib -o /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app.dSYM0#
+
+CLd /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/NoNib normal i386
+s279745934.067925
+e279745934.149585
+r1
+xLd
+x/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/NoNib
+xnormal
+xi386
+lSLF07#2@77"Link /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/NoNib279745934#279745934#0(0"0(0#0#0"4300885448#804"    cd /Users/steve/Documents/NoNib    setenv MACOSX_DEPLOYMENT_TARGET 10.5    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -L/Users/steve/Documents/NoNib/build/Debug-iphonesimulator -F/Users/steve/Documents/NoNib/build/Debug-iphonesimulator -filelist /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/Objects-normal/i386/NoNib.LinkFileList -mmacosx-version-min=10.5 -framework Foundation -framework UIKit -framework CoreGraphics -o /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/NoNib0#
+
+CProcessInfoPlistFile /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/Info.plist NoNib-Info.plist
+s279746471.821164
+e279746471.840849
+r1
+xProcessInfoPlistFile
+x/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/Info.plist
+xNoNib-Info.plist
+lSLF07#2@24"Process NoNib-Info.plist279746471#279746471#0(0"0(0#0#45"/Users/steve/Documents/NoNib/NoNib-Info.plist4300885448#443"    cd /Users/steve/Documents/NoNib    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility NoNib-Info.plist -genpkginfo /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/PkgInfo -expandbuildsettings -format binary -platform iphonesimulator -o /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app/Info.plist0#
+
+CProcessPCH /var/folders/MP/MPi0s+PHGP8YPacY7yvHE++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NoNib_Prefix-dgooypqhelbmcfhcibwqgvncsdmi/NoNib_Prefix.pch.gch NoNib_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s279746471.841009
+e279746472.686666
+r1
+xProcessPCH
+x/var/folders/MP/MPi0s+PHGP8YPacY7yvHE++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NoNib_Prefix-dgooypqhelbmcfhcibwqgvncsdmi/NoNib_Prefix.pch.gch
+xNoNib_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@27"Precompile NoNib_Prefix.pch279746471#279746472#0(0"0(0#0#45"/Users/steve/Documents/NoNib/NoNib_Prefix.pch4300885448#1613"    cd /Users/steve/Documents/NoNib    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -D__IPHONE_OS_VERSION_MIN_REQUIRED=30000 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator3.1.2.sdk -fvisibility=hidden -mmacosx-version-min=10.5 -gdwarf-2 -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-generated-files.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-own-target-headers.hmap -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-all-target-headers.hmap -iquote /Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/NoNib-project-headers.hmap -F/Users/steve/Documents/NoNib/build/Debug-iphonesimulator -I/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/include -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources/i386 -I/Users/steve/Documents/NoNib/build/NoNib.build/Debug-iphonesimulator/NoNib.build/DerivedSources -c /Users/steve/Documents/NoNib/NoNib_Prefix.pch -o /var/folders/MP/MPi0s+PHGP8YPacY7yvHE++++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/NoNib_Prefix-dgooypqhelbmcfhcibwqgvncsdmi/NoNib_Prefix.pch.gch0#
+
+CTouch /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app
+s279745934.164881
+e279745934.167369
+r1
+xTouch
+x/Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app
+lSLF07#2@72"Touch /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app279745934#279745934#0(0"0(0#0#0"4300885448#256"    cd /Users/steve/Documents/NoNib    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c /Users/steve/Documents/NoNib/build/Debug-iphonesimulator/NoNib.app0#
+
